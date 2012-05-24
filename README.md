@@ -16,4 +16,4 @@ $ csc /target:winexe Shell.cs
 
 Put the `Shell.exe` into your Cygwin base folder, e.g. `F:\cygwin`.
 Finally, point GitHub for Windows to a custom default shell and 
-past the exe's location. Done!
+paste the exe's location. Done!
